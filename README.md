@@ -1,4 +1,4 @@
-# ROS Melodic with Polaris Gem Simulator on Mac/Windows
+# ROS Melodic with Polaris Gem Simulator on Docker
 
 ## Setup
 1. Install Docker ([installation instructions here](https://docs.docker.com/docker-for-mac/install/))
