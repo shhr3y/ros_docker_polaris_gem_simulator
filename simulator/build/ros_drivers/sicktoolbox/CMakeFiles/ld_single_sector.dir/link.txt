@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ld_single_sector.dir/c++/examples/ld/ld_single_sector/src/main.cc.o  -o /root/simulator/devel/lib/sicktoolbox/ld_single_sector -Wl,-rpath,/root/simulator/devel/lib: /root/simulator/devel/lib/libSickLD.so -lpthread 

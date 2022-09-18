@@ -1,0 +1,8 @@
+prefix=/root/simulator/devel
+
+Name: people_msgs
+Description: Description of people_msgs
+Version: 1.4.0
+Cflags: -I/root/simulator/devel/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_runtime std_msgs

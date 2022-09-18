@@ -1,0 +1,2 @@
+set(jsk_topic_tools_MESSAGE_FILES "/root/simulator/src/ros_drivers/jsk_rviz/jsk_topic_tools/msg/TopicInfo.msg")
+set(jsk_topic_tools_SERVICE_FILES "/root/simulator/src/ros_drivers/jsk_rviz/jsk_topic_tools/srv/List.srv;/root/simulator/src/ros_drivers/jsk_rviz/jsk_topic_tools/srv/Update.srv;/root/simulator/src/ros_drivers/jsk_rviz/jsk_topic_tools/srv/ChangeTopic.srv;/root/simulator/src/ros_drivers/jsk_rviz/jsk_topic_tools/srv/PassthroughDuration.srv")

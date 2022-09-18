@@ -1,0 +1,2 @@
+set(people_msgs_MESSAGE_FILES "/root/simulator/src/ros_drivers/jsk_rviz/people_msgs/msg/People.msg;/root/simulator/src/ros_drivers/jsk_rviz/people_msgs/msg/Person.msg;/root/simulator/src/ros_drivers/jsk_rviz/people_msgs/msg/PersonStamped.msg;/root/simulator/src/ros_drivers/jsk_rviz/people_msgs/msg/PositionMeasurement.msg;/root/simulator/src/ros_drivers/jsk_rviz/people_msgs/msg/PositionMeasurementArray.msg")
+set(people_msgs_SERVICE_FILES "")

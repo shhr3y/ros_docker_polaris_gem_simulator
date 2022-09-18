@@ -1,0 +1,2 @@
+gem_description:gem_gazebo:gem_launch
+-DCATKIN_DEVEL_PREFIX=/root/simulator/gem_simulator/devel -DCMAKE_INSTALL_PREFIX=/root/simulator/gem_simulator/install -G Unix Makefiles

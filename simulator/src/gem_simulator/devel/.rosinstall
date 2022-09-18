@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /root/simulator/gem_simulator/devel/setup.sh

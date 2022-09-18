@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared  -o /root/simulator/devel/lib/python2.7/dist-packages/jsk_recognition_utils/color.so CMakeFiles/color.dir/color.c.o -lpython2.7 
